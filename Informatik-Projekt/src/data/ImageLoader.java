@@ -1,4 +1,4 @@
-package gui;
+package data;
 
 public class ImageLoader {
 
